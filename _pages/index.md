@@ -477,6 +477,14 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/code-is-crap.jpeg
+    # short description of image
+    alt: code-is-crap
+    # your github profile name and github account
+    posted_by: Vova
+    github: https://github.com/01vova
+
 
 
 
