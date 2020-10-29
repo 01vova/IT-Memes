@@ -477,6 +477,14 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/wizard-installs.jpg
+    # short description of image
+    alt: wizard-installs
+    # your github profile name and github account
+    posted_by: Vova
+    github: https://github.com/01vova
+
 
 
 
